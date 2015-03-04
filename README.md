@@ -15,7 +15,7 @@ smartmedia.js:1:1       'a' was used before it was defined.
 smartmedia.js:2:1       'b' was used before it was defined.
 smartmedia.js:2:5       'c' was used before it was defined.
 
-\# JSLint failed, 3 violations in 1.  1 files scanned.
+# JSLint failed, 3 violations in 1.  1 files scanned.
 Warning: Task "jslint:client" failed. Use --force to continue.
 
 Aborted due to warnings.
