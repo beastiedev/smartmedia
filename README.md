@@ -4,7 +4,8 @@ Note: angular is added using *bower*, so you need to execute `bower install` in 
 
 Here is a grunt configured to run 2 tasks by default: jslint and jshint. First one detects syntax errors, 2nd one - logical errors, best practices violations. Example usage:
 
-```bash-3.1$ grunt
+```
+bash-3.1$ grunt
 Running "jshint:files" (jshint) task
 >> 2 files lint free.
 
